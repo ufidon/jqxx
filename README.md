@@ -8,7 +8,7 @@
 - [Machine Learning From Scratch: Derivations in Concept and Code](https://dafriedman97.github.io/mlbook/content/introduction.html)
 - [Deep Learning From Scratch code](https://github.com/SethHWeidman/DLFS_code)
 - [Machine Learning Notebooks, 3rd edition](https://github.com/ageron/handson-ml3)
-- [Hands-on ML with Scikit-Learn, Keras & TF](https://github.com/Akramz/Hands-on-Machine-Learning-with-Scikit-Learn-Keras-and-TensorFlow)
+- [Hands-on ML with Scikit-Learn, Keras & TF](https://github.com/ageron/handson-ml3)
 - [Machine learning with Julia – How to Build and Deploy a Trained AI Model as a Web Service](https://www.freecodecamp.org/news/machine-learning-using-julia/)
   - [Machine Learning in Julia](https://towardsdatascience.com/machine-learning-in-julia-5bca700e0348)
 - [Categories Great and Small](https://bartoszmilewski.com/2014/12/05/categories-great-and-small/)
